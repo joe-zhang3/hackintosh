@@ -2,13 +2,13 @@
 
 ## Build Info
 
-OpenCore: 0.6.4
-CPU: AMD Ryzen 7 5800X
-GPU: Sapphire RX 5700XT 8G
-Motherboard: MSI B550M mortar (Bios version: 7C94v14)
-RAM: GSkill TridentZ RGB DDR4-3200 16GB
-OS: macOS Big Sur
-Wifi/Bluetooth: Broadcom BCM943602CS combo
+- OpenCore: 0.6.4
+- CPU: AMD Ryzen 7 5800X
+- GPU: Sapphire RX 5700XT 8G
+- Motherboard: MSI B550M mortar (Bios version: 7C94v14)
+- RAM: GSkill TridentZ RGB DDR4-3200 16GB
+- OS: macOS Big Sur
+- Wifi/Bluetooth: Broadcom BCM943602CS combo
 
 ## Notes
 
