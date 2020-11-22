@@ -20,7 +20,7 @@
 ## Problems left.
 
 1. Seems like the bluetooth signal is not very well, connection of my bluetooth keyboard sometimes get lost. Other device like Airpords is working well. 
-2. Handoff is still not work. Aiddrops works. Still trying to figur it out. 
+2. ~~Handoff is still not work. Airdrops works. Still trying to figur it out.~~
 
 
 
