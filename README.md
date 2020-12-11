@@ -1,5 +1,10 @@
 # EFI for Big Sur 
 
+__Update on Dec 11th__
+
+1. Update OpenCore to official release 0.6.4
+2. Add some kext to support monitor CPU temperature
+
 ## Build Info
 
 - OpenCore: 0.6.4
